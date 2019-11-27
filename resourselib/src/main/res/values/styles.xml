@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--公共主题-->
+    <style name="ResTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/color_F6F6F6</item>
+    </style>
+
+    <!--透明窗体应用主题-->
+    <style name="TransparentWindowAppTheme" parent="ResTheme">
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    <!-- 下进下出动画 -->
+    <style name="res_down_enter_down_exit_anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_slide_bottom_in</item>
+        <item name="@android:windowExitAnimation">@anim/res_slide_bottom_out</item>
+    </style>
+
+    <!-- 上进上出动画 -->
+    <style name="res_up_enter_up_exit_anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_slide_top_in</item>
+        <item name="@android:windowExitAnimation">@anim/res_slide_top_out</item>
+    </style>
+
+    <!-- 左进左出动画 -->
+    <style name="res_left_enter_left_exit_anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_slide_left_in</item>
+        <item name="@android:windowExitAnimation">@anim/res_slide_left_out</item>
+    </style>
+
+    <!-- 右进右出动画 -->
+    <style name="res_right_enter_right_exit_anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_slide_right_in</item>
+        <item name="@android:windowExitAnimation">@anim/res_slide_right_out</item>
+    </style>
+
+</resources>

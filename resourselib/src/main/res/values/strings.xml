@@ -1,0 +1,89 @@
+<resources>
+    <!--公共文案-->
+    <string name="res_confirm">确认</string>
+    <string name="res_confirmed">已确认</string>
+    <string name="res_sure">确定</string>
+    <string name="res_cancel">取消</string>
+    <string name="res_neutral">再想想</string>
+    <string name="res_next">下一步</string>
+    <string name="res_submit">提交</string>
+    <string name="res_submitted">已提交</string>
+    <string name="res_hint">提示</string>
+    <string name="res_title">标题</string>
+    <string name="res_describe">描述</string>
+    <string name="res_content">内容</string>
+    <string name="res_more">更多</string>
+    <string name="res_share">分享</string>
+    <string name="res_save">保存</string>
+    <string name="res_saved">已保存</string>
+    <string name="res_complete">完成</string>
+    <string name="res_send">发送</string>
+    <string name="res_continue">继续</string>
+    <string name="res_exit">退出</string>
+    <string name="res_refresh">刷新</string>
+    <string name="res_upload">上传</string>
+    <string name="res_pack_up">收起</string>
+    <string name="res_expand">展开</string>
+    <string name="res_meassge_readed">已读</string>
+    <string name="res_message_unread">未读</string>
+    <string name="res_refused">拒绝</string>
+    <string name="res_accept">接受</string>
+    <string name="res_accepted">已接受</string>
+    <string name="res_add">添加</string>
+    <string name="res_delete">删除</string>
+    <string name="res_modify">修改</string>
+
+    <!--公共文案之登录注册模块-->
+    <string name="res_register">注册</string>
+    <string name="res_login">登录</string>
+    <string name="res_login_quick">验证码登录</string>
+    <string name="res_login_account">密码登录</string>
+    <string name="res_login_third_party_account">第三方账号登录</string>
+    <string name="res_login_qq">QQ登录</string>
+    <string name="res_login_wx">微信登录</string>
+    <string name="res_login_wb">微博登录</string>
+    <string name="res_mobile_phone">手机</string>
+    <string name="res_mobile_phone_number">手机号</string>
+    <string name="res_mobile_phone_number_input_hint">请输入手机号</string>
+    <string name="res_mobile_phone_number_input_change_hint">请输入要更换的手机号</string>
+    <string name="res_mobile_phone_number_modify">修改手机号</string>
+    <string name="res_password_set">设置密码</string>
+    <string name="res_password_reset">重置密码</string>
+    <string name="res_password_forget">忘记密码</string>
+    <string name="res_password_modify">修改密码</string>
+    <string name="res_password">密码</string>
+    <string name="res_password_input_hint">请输入密码</string>
+    <string name="res_password_new_input_hint">请输入新密码</string>
+    <string name="res_nickname_modify">修改昵称</string>
+    <string name="res_phone_modify">更换手机号</string>
+    <string name="res_mailbox">邮箱</string>
+    <string name="res_name">姓名</string>
+
+    <!--公共文案之用户中心模块-->
+    <string name="res_pay">支付</string>
+    <string name="res_withdrawal">提现</string>
+    <string name="res_head_portrait">头像</string>
+    <string name="res_nickname">昵称</string>
+    <string name="res_gender">性别</string>
+    <string name="res_camera">相机</string>
+    <string name="res_photo_album">相册</string>
+    <string name="res_set">设置</string>
+    <string name="res_about">关于</string>
+    <string name="res_clear_cache">清理缓存</string>
+    <string name="res_clear_cache_success">清理成功</string>
+    <string name="res_feedback">意见反馈</string>
+    <string name="res_logout">退出登录</string>
+    <string name="res_invite_friends">邀请好友</string>
+    <string name="res_common_problem">常见问题</string>
+
+    <!--公共文案之验证码-->
+    <string name="res_verification_code">验证码</string>
+    <string name="res_verification_code_voice">语音验证码</string>
+    <string name="res_verification_code_get">获取验证码</string>
+    <string name="res_verification_code_input_hint">请输入验证码</string>
+
+    <!--倒计时-->
+    <string name="res_countdown_seconds_later_retry">(%1$s)重新获取</string>
+    <string name="res_countdown_again_obtain">获取验证码</string>
+
+</resources>
